@@ -1,0 +1,1840 @@
+* {
+    object-fit: cover;
+    padding: 0px;
+    margin: 0px;
+    font-family: "Raleway";
+    box-sizing: border-box;
+  
+}
+.h1{
+    display: none;
+}
+.ttFalse{
+    position: relative;
+    background-color: white;
+    border-radius: 10px;
+    width: 347px;
+    height: 225px;
+    display: flex;
+    justify-content: center;
+}
+.chuaco{
+    height: 100%;
+    max-height: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.QuenMatKhau{
+    width: 150px;
+    margin: auto;
+}
+.Time {
+    display: flex;
+    padding: 5px;
+}
+
+.Voucher1 div h6 {
+    display: none;
+}
+
+.Voucher1.hien div h6 {
+    display: block;
+}
+
+.button-nb13 {
+    width: 115px;
+    height: 35px;
+    top: 74px;
+    left: 80px;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: -0.1599999964237213px;
+    text-align: center;
+    border-radius: 75px;
+    background-color: #004CFF;
+    border: none;
+    color: #FFFFFF;
+}
+
+.rtop-nb13 {
+    margin: 15px 10px;
+}
+
+.top-nb13 {
+    display: flex;
+    justify-content: space-between;
+}
+.top-nb13 svg{
+    margin-left: 10px;
+}
+.Voucher1.han h6 {
+    display: block;
+    color: #D97474;
+}
+
+.Voucher1.han div:nth-child(1) p {
+    background-color: #D97474;
+    margin-right: 5px;
+}
+
+.Voucher1.han {
+    border: #D97474 solid 1px;
+
+}
+
+.Voucher1.han div:nth-child(1) {
+    border-bottom: #D97474 dashed 1px;
+}
+
+.Voucher1.han div:nth-child(1) h3:nth-child(1) {
+    color: #D97474;
+
+}
+
+.rtop-nb13h1 {
+
+    margin: 10px;
+    color: black;
+    font-family: Raleway;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: -0.2800000011920929px;
+    text-align: left;
+    width: 192px;
+    height: 36px;
+    top: 131px;
+    left: 20px;
+}
+
+.rtop-nb13d2 {
+    padding: 10px 0px;
+    display: none;
+    height: 70px;
+    margin-top: 12px;
+    background-color: #F8F8F8;
+    border-radius: 5px;
+    margin-bottom: 18px;
+}
+
+.rtop-nb13d2.hien {
+    display: flex;
+  
+}
+
+.rtop-nb13d.hien {
+    display: block;
+}
+
+.rtop-nb13d {
+    padding-top: 10px;
+    display: none;
+    height: 70px;
+    margin-top: 12px;
+    background-color: #F8F8F8;
+    border-radius: 5px;
+    margin-bottom: 18px;
+}
+
+.rtop-nb13d button {
+    font-size: 20px;
+    border-radius: 50%;
+    background-color: #0C54FF;
+    border: none;
+    color: white;
+    width: 30px;
+    height: 30px;
+}
+
+.rtop-nb13d h2 {
+    margin-left: 10px;
+}
+
+.rtop-nb13d p {
+    margin-left: 10px;
+    font-family: Nunito Sans;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.diplaye {
+    margin-right: 15px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+.thongbaothemhang{
+   
+    padding: 15px;
+    color: white;
+    background-color: #5c4bf5;
+    width:240px;
+    display: flex;
+    border-radius: 5px;
+    position: fixed;
+    bottom: 80px; 
+    left: 30%; 
+}
+.BuyProduct{
+ 
+    padding: 15px;
+    background-color: #FFFFFF;
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    bottom:0px;
+}
+.BuyProduct p{
+    padding: 10px 15px;
+    color:white;
+    border-radius: 5px;
+}
+.giuadau-nb13 h1 {
+    margin-top: 10px;
+    color: black;
+    font-family: Raleway;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: -0.20999999344348907px;
+    text-align: left;
+}
+
+.giuadau-nb133 img {
+    width: 100%;
+   
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.10);
+    max-width: 150px;
+   height: 180px;
+    margin-top: 12px;
+    outline: 5px solid #F8F8F8;
+}
+.TopProductsImage{
+    display: flex;
+    justify-content: space-between;
+}
+.TopProductsImage img{
+    width: 100%;
+    max-width: 70px;
+    margin-left: 5px;
+    margin-top: 12px;
+    outline: 5px solid #F8F8F8;
+    border-radius: 70px;
+}
+.JustForYou1{
+    margin:0px 15px;
+    max-width: 200px;
+    width: 100%;
+   
+    
+}
+
+.giuadau-nb131 img {
+    width: 100%;
+    max-width: 70px;
+    height: 70px;
+    margin-top: 12px;
+    outline: 5px solid #F8F8F8;
+    border-radius: 70px;
+}
+
+.giuadau-nb132 button {
+    padding: 5px;
+    border-radius: 25px;
+    background-color: #E5EBFC;
+    color: #0042E0;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: -0.1599999964237213px;
+    text-align: center;
+    border: none;
+}
+
+.giuadau-nb132 {
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.giuadau-nb132-b1 {
+    width: 86px;
+    height: 35px;
+}
+
+.giuadau-nb132-b2 {
+    width: 118px;
+    height: 35px;
+}
+
+.giuadau-nb132-b3 {
+    width: 116px;
+    height: 35px;
+}
+
+.img10-nb13 {
+    width: 104px;
+    height: 175px;
+}
+
+.Navbar2-top2 {
+    margin: 15px 10px;
+}
+
+.img13-nb13 {
+    width: 26px;
+}
+.Stories1Svg{
+    position: absolute;
+    top: 80px;
+    left: 35%;
+    
+}
+.giuadau-nb {
+    height: 77px;
+}
+
+.Newitem {
+    margin: 15px 0px;
+}
+.FlashSaleItem h2{
+    margin-left: 10px;
+}
+.newitem {
+    margin: 10px 0px ;
+    display: flex;
+    justify-content: space-between;
+}
+
+.newitem button {
+    cursor: pointer;
+    background-color: #0042E0;
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    border: none;
+    padding-top: 2px;
+    color: #FFFFFF;
+}
+.Stories1{
+    position: relative;
+}
+.Stories1p{
+    padding-left: 5px;
+    position: absolute;
+    top: 15px;
+    background: rgb(55, 241, 64);
+    left: 5px;
+    border-radius: 5px;
+    width: 30px;
+    align-items: center;
+    color: white;
+}
+.MostPopularimg {
+
+    width: 100%; 
+    flex-shrink: 0;
+}
+
+.MostPopularimg2 {
+
+    height: 110px;
+    flex-shrink: 0;
+}
+
+
+.Categories-item {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.item {
+    outline: 5px solid white;
+    max-width: 200px;
+    border-radius: 9px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.10);
+    margin: 10px 0px; 
+}
+.MostPopular12{
+    max-width: 130px;
+    height: 150px;
+    outline: 5px solid #fff;
+    flex-shrink: 0;
+    border-radius: 9px;
+    background: #FFF;
+    box-shadow: 5px 5px 10px 5px rgba(0.20, 0.20, 0.20, 0.10);
+    margin: 10px 5px;
+}
+.Categories-item1 {
+    max-width: 210px ;
+    width:100% ;
+    height: 240px;
+    flex-shrink: 0;
+    border-radius: 9px;
+    background: #FFF;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.10);
+    margin: 10px 5px;
+}
+.Addardess{
+    display: none;
+}
+.Addardess.hien{
+    display: block;
+}
+.Categories-item1 img {
+    float: left;
+    width: 100%;
+    max-width: 100px;
+    max-height: 100px;
+    height: 100%;
+    flex-shrink: 0;
+    margin-left: 5px;
+    margin-top: 5px;
+
+}
+
+.Categories-item-text h2 {
+    float: left;
+}
+
+.TopProducts h2{
+    margin-left: 10px;
+}
+.FlashSaleItem1 {
+    margin-left: 10px;
+    max-width: 200px;
+    width: 100%;
+    flex-shrink: 0;
+    float: left;
+    box-shadow: 0px 5px 10px 5px rgba(0.10, 0.10, 0.10, 0.10);
+    margin-top: 20px;
+    outline: 5px;
+    outline: 5px solid #FFF;
+    border-radius: 5px;
+    position: relative;
+}
+.FlashSaleItem1 img{
+ width: 100%;
+}
+.FlashSaleItem1 p{
+   
+    position: absolute;
+    top:0;
+    right: 0;
+  }
+.FlashSaleItem1 p {
+    color: #FFF;
+    float: right;
+    font-family: Raleway;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px;
+    /* 130.769% */
+    letter-spacing: -0.13px;
+    width: 39px;
+    height: 18px;
+    flex-shrink: 0;
+    background-color: crimson;
+
+    border-radius: 5px 5px 0px 5px;
+    text-align: center;
+}
+.Time p{
+    width: 25px;
+    background-color: #FFEBEB;
+    padding: 5px;
+    margin-left: 2px;
+    border-radius: 5px;
+}
+.FlashSale-Item1 {
+
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+
+.JustForYouText {
+    margin-left: 15px;
+}
+
+.JustForYouTextItem {
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.JustForYouTextItem div img{
+    width: 220px;
+}
+.TopProducts {
+    margin-top: 15px;
+}
+
+.TopProducts img {
+    margin: 15px 5px;
+}
+
+.JustForYou-img {
+    outline: 5px solid #FFF;
+    box-shadow: 0px 5px 5px 5px rgba(0.10, 0.10, 0.10, 0.10);
+    border-radius: 5px;
+}
+
+.JustForYou-img img {
+    width: 155px;
+    height: 171px
+}
+
+.giuadau-nb13 h2 {
+    margin-left: 10px;
+}
+
+.giuadau-nb h2 {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.Categories {
+    margin: 15px 0px;
+}
+
+.MostPopular {
+    margin: 15px 0px;
+}
+
+.taitoshop {
+    position: relative;
+    margin-left: 10px;
+}
+
+.taitoshop input {
+    width: 275px;
+    border-radius: 50px;
+    border: none;
+    background-color: #F8F8F8;
+    ;
+}
+
+.taitoshop img {
+    position: absolute;
+    right: 10px;
+    top: 3px;
+}
+
+.Topper {
+    display: flex;
+    margin-left: 10px;
+}
+
+.JustForYouTextItem div img {
+    outline: 5px solid white;
+    border-radius: 5px;
+    box-shadow: 0px 5px 5px 5px rgba(0.10, 0.10, 0.10, 0.10);
+}
+
+
+.bannersale {
+    padding-top: 15px;
+    margin: auto;
+    width: 95%;
+}
+
+.bannersale img {
+    margin: auto;
+    width: 100%;
+}
+
+.menusale {
+    display: flex;
+    justify-content: space-around;
+    background-color: #F9F9F9;
+ 
+    margin: auto;
+    border-radius: 10px;
+    height: 28px;
+    align-items: center;
+}
+
+.timesale p {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    color: #202020;
+    font-size: 17px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.JustForYouTextItemp {
+    position: absolute;
+    background-color: crimson;
+    top: -5px;
+    right: 0;
+    font-family: Raleway;
+    border-radius: 5px 5px 0px 5px;
+    font-size: 13px;
+    color: white;
+}
+.Salehehe1{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.Add textarea{
+    
+    overflow: hidden;
+    height: 40px;
+    resize: none;
+    width: 300px;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+}
+.Salehehe{
+    position: relative;
+     margin-top: 15px;
+    box-shadow: 0px 5px 5px 5px rgba(0.10, 0.10, 0.10, 0.10);
+    outline: 5px solid white;
+    max-width: 200px;
+    border-radius: 5px;
+   
+}
+.Salehehe span{
+    background-color: #F1AEAE;
+    position: absolute;
+    top:0;
+    right: 0;
+    color: white;
+    padding: 2px;
+    border-radius: 5px;
+}
+.Salehehe p{
+    float: left;
+        font-size: 24px;
+        gap:20px;
+        font-weight: 600;
+}
+.hero {
+    margin: auto;
+    width: 100%;
+    max-width: 500px;
+    position: relative;
+}
+
+.MenuSale {
+    position: fixed;
+    top: 0;
+    background-color: white;
+    width: 100%;
+    max-width: 500px;
+    background-image: url(../Assets/shopdemo/backrou123.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom: 10px;
+}
+
+.Eye {
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Nut {
+    width: 120px;
+    height: 40px;
+    background: #004CFF;
+    border-radius: 15px;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+}
+
+.bannecuoi {
+    position: relative;
+}
+
+.storyShop {
+    left: 15px;
+    position: absolute;
+    margin: auto;
+    background-color: white;
+    bottom: 22px;
+    width: 325px;
+    display: flex;
+    border-radius: 10px;
+
+}
+
+.yu2 {
+    border: 5px solid white;
+    border-radius: 7px;
+}
+
+.banner4 {
+    width: 100%;
+    text-align: center;
+}
+
+.banner1 {
+    position: relative;
+    height: 620px;
+
+}
+
+.nut1 {
+    position: absolute;
+    right: 97px;
+    top: 320px;
+
+}
+
+.shopbanner1 {
+    background-color: white;
+    outline: 5px solid white;
+    position: absolute;
+    right: 115px;
+    top: 345px;
+    border-radius: 5px;
+}
+
+.bannerShop {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+
+.bannerShop1 {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    float: right;
+}
+
+.ShopClot {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.ShopClot div {
+    margin: 0px 5px;
+}
+
+.ShopClot div p {
+    text-align: center;
+}
+
+.taitoshop svg {
+    position: absolute;
+    right: 10px;
+    top: 3px;
+}
+
+.menuCate {
+    display: none;
+}
+
+.menuCate.is-open {
+    display: block;
+}
+
+.categotim {
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tatca {
+    display: flex;
+    justify-content: space-around;
+}
+
+.tatca h3 {
+    width: 107px;
+    height: 36px;
+    text-align: center;
+    background: #F9F9F9;
+    border-radius: 10px;
+    line-height: 36px;
+}
+
+.thuoctinh {
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.thuoctinh p {
+    width: 153px;
+    height: 40px;
+    border: 2px solid #FFEBEB;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 5px;
+    margin-right: 15px;
+}
+
+.Itemtim {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    box-shadow: 0px 5px 5px 5px rgba(0.10, 0.10, 0.10, 0.10);
+}
+
+.matop {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.matop h2 {
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+.matop svg {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.siveProduc {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 15px;
+    margin-left: 10px;
+    line-height: 30px;
+}
+
+.siveProduc div div {
+    margin-top: 2px;
+    margin-left: 10px;
+    background: #F9F9F9;
+    height: 25px;
+    border-radius: 5px;
+    padding: 0px 5px;
+}
+
+.imgproduc img {
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.buyProduct {
+    position: fixed;
+    bottom: 0;
+}
+
+.ChatLieu {
+    display: flex;
+}
+
+.ChatLieu p {
+    margin-left: 4px;
+    padding: 4px;
+    background: #FFEBEB;
+
+}
+
+.cuoi {
+    margin-left: 10px;
+}
+
+.imgsive div {
+    position: relative;
+}
+
+.imgsive {
+    margin: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgsive div svg {
+    position: absolute;
+    left: 5px;
+    bottom: 5px;
+}
+
+.ChonSive1 svg {
+    display: none;
+}
+
+.imgsive div img {
+    width: 79px;
+    height: 79px;
+    border-radius: 5px;
+}
+
+.Sive {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Sive p {
+    width: 50px;
+    background: #E5EBFC;
+    padding: 5px 0px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.chonColor {
+    border-radius: 5px;
+    border: 1px solid #004CFF
+}
+
+.menuCate.hien {
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0;
+    height: 800px;
+    background-color: white;
+}
+
+.Nhapdiachi div input {
+    border: 0px;
+    background-color: #f9f9f9;
+    font-size: 10px;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Soluong {
+
+    align-items: center;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Soluong div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 50px;
+
+}
+
+.Soluong p {
+    display: flex;
+    margin: 0px 5px;
+    justify-content: center;
+    align-items: center;
+    width: 37px;
+    height: 30px;
+    background-color: #E5EBFC;
+    border-radius: 10px;
+}
+.colorProduc{
+    display: flex;  
+}
+.ChonSize{
+    display: flex;
+}
+.ChonSize div{
+    margin-left: 10px;
+    padding: 10px 0px;
+    text-align: center;
+    width: 50px;
+    border-radius: 5px;
+    background-color: rgb(229, 235, 252);
+}
+.colorProduc div img{
+    height: 100%;
+    max-height: 76px;
+    width: 75px;
+    margin-left: 5px;
+}
+.menuCate.ChonSive {
+    max-width: 500px;
+    width: 100%;
+    display: block;
+    position: fixed;
+    bottom: 70px;
+
+}
+
+.cacshop {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+ul {
+    margin: 0px;
+
+}
+
+.MenuSetting div {
+    align-items: center;
+    padding-top: 10px;
+    border-bottom: 1px solid gray;
+    margin: auto;
+    width: 334.92px;
+    height: 42.5px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cacshop div {
+    font-size: 10px;
+    height: 182px;
+    width: 142px;
+    text-align: center;
+}
+
+.vocher {
+    display: none;
+}
+
+.Voucher {
+    background: #F8FAFF;
+    width: 375px;
+    height: 80px;
+    border-radius: 9px 9px 0px 0px;
+}
+
+.Voucher h2 {
+    margin-left: 20px;
+    line-height: 80px;
+}
+
+.Nut1 .onchien {
+    color: #004BFE;
+    background: #dee7ff;
+}
+
+.MenuSetting1 {
+    display: none;
+}
+
+.MenuSetting1.onchien {
+    display: block;
+}
+
+.Language {
+    display: none;
+}
+
+.Language.onchien {
+    display: block;
+}
+
+.xoaiclub {
+    display: none;
+}
+
+.xoaiclub.onchien {
+    display: block;
+}
+
+.Language .onchien1 {
+    background-color: #E5EBFC;
+}
+
+.Language div {
+    border-radius: 10px;
+    padding: 0px 15px;
+    align-items: center;
+    width: 335px;
+    height: 40px;
+    margin-left: 20px;
+    display: flex;
+    margin-top: 10px;
+    background-color: #F9F9F9;
+    justify-content: space-between;
+}
+
+.Voucher1 {
+    background-color: #F9F9F9;
+    border: 2px solid #004CFF;
+    border-radius: 8px;
+    margin-top: 15px;
+    position: relative;
+}
+
+.Voucher1 div:nth-child(1) {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px #004CFF dashed
+}
+
+.Voucher1 div:nth-child(2) {
+    display: flex;
+    align-items: center;
+    margin-top: 18px;
+}
+
+.Nut1 {
+    display: flex;
+}
+
+.Nut1 div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 15px;
+    width: 162px;
+    height: 30px;
+    background: #F9F9F9;
+    border-radius: 15px;
+}
+
+.Voucher1 div svg {
+    margin: 0px 5px 0px 19px;
+}
+
+.Voucher1 div:nth-child(3) {
+    display: flex;
+    margin-left: 19px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Voucher1.han div:nth-child(1) span {
+    display: flex;
+    justify-content: space-between;
+    width: 200px
+}
+
+.Voucher1 div p:nth-child(2) {
+    background: #c4c0c0;
+    margin-right: 5px;
+    display: flex;
+    justify-content: right;
+}
+
+.Voucher1 div h3:nth-child(1) {
+    color: #004CFF;
+    margin-top: 6px;
+    margin-left: 19px;
+}
+
+.Voucher1 div:nth-child(3) p:nth-child(2) {
+    border: 1px solid #0042E0;
+    color: white;
+    border-radius: 4px;
+    background-color: rgb(0, 76, 255);
+    margin: 0px 7px 7px 0px;
+    width: 97px;
+    height: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Voucher0Voucher0 {
+    position: absolute;
+    top: 0;
+}
+
+.TongTienShipCham {
+    display: none;
+}
+
+.Voucher0 {
+    display: none;
+}
+
+.ShipShipCham {
+    background-color: #E5EBFC;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 5px 0px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ShipCham {
+    display: none;
+}
+
+.producthien {
+    display: block;
+}
+
+.Ship {
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 5px 0px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: #F9F9F9;
+}
+
+.producthien.an {
+    display: none;
+}
+
+.SizeChon {
+    height: 400px;
+    background-color: rgb(113, 113, 113, 0.1);
+}
+
+.wishlistchinh {
+    margin-top: 10px;
+}
+
+.wishlistchinh div img {
+    width: 121.18px;
+    height: 101.64px;
+    box-shadow: 0px 5px 5px 5px rgba(0.10, 0.10, 0.10, 0.10);
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.onchien2 {
+    display: none;
+}
+
+.inputSetting input {
+    margin-top: 10px;
+    border: 0px;
+    background: #F1F4FE;
+    border-radius: 10px;
+    padding: 10px;
+    width: 95%;
+}
+
+.Recieve {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    outline: 5px solid white;
+    width: 170px;
+    height: 170px;
+    border-radius: 5px;
+    box-shadow: 0px 5px 5px 5px rgba(0.10, 0.10, 0.10, 0.10);
+}
+.country{
+    color: #004BFE;
+}
+.ToRecieve {
+    display: flex;
+    margin-top: 20px;
+}
+
+.ToRecieve div:nth-child(2) {
+    margin-left: 25px;
+}
+.AddShip div{
+    padding-top: 20px;
+}
+.AddShip div p{
+  margin-left: 15px;
+  padding-top: 5px;
+}
+.AddShip div input{
+    border-radius: 5px;
+    width: 95%;
+    padding: 5px;
+    margin-top: 5px;
+    background-color: #F1F4FE;
+}
+.dungCarBank {
+    position: absolute;
+   right: -10px;
+   top: -10px;
+    
+}
+.inputPayment div input{
+ background-color: rgb(248, 250, 255);
+ padding: 10px;
+ width: 95%;
+ border-radius: 10px;
+}
+.DthanhToan{
+    display: none;
+    top: 0px;
+    position: absolute;
+    text-align: center;
+    background-color: #E7E8EB;
+    width: 100%;
+    height: 130%;
+}
+.DthanhToan.load{
+    display: block;
+}
+    
+    
+.inputPayment div p{
+    
+    padding: 10px;
+   }
+.CarBank {
+   
+    position: relative;
+    width: 280px;
+    height: 155px;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: #F1F4FE;
+}
+.AddCard div{
+    padding-top: 10px;
+}
+.AddCard {
+    top: 0;
+    position: absolute;
+    display: none;
+    padding-bottom: 120px;
+}
+.AddCard.onchien{
+    display: block;
+}
+.AddCard div div:nth-child(3){
+    display: flex;
+}
+.CarBank div:nth-child(1) {
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+}
+.AddCard div p,input{
+margin-left: 15px;
+border: 0px;
+}
+.AddCard input{
+    border-radius: 5px;
+    background-color: #F1F4FE;
+    width: 95%;
+    padding: 10px;
+
+}
+.AddCarBank  {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #004CFF;
+    width: 45px;
+    height: 155px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.Recieve3 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    outline: 5px solid white;
+    width: 84px;
+    height: 84px;
+    box-shadow: 0px 5px 5px 5px rgba(0.10, 0.10, 0.10, 0.10);
+}
+
+.ananh {
+    display: none;
+}
+.danhgia {
+    display: none;
+}
+.danhgia.hien {
+    display: block;
+    background-color: #F9F9F9;
+    margin-top: 25px;
+}
+.ananh.hien {
+    display: flex;
+    background-color: #F9F9F9;
+    margin-top: 25px;
+
+}
+
+.Review {
+    display: none;
+}
+
+.nhan {
+    display: none;
+}
+
+.TextChat {
+    display: none;
+    max-width: 500px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    background-color: #F8F8F8;
+
+}
+
+.ToRecieve.hien {
+    outline: 2px solid #004CFF;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.nhantin.hien {
+    display: flex;
+    align-items: center;
+}
+
+.nhantin {
+
+    position: fixed;
+    display: none;
+    width: 375px;
+    position: fixed;
+    bottom: 0px;
+    background-color: #F8F8F8;
+}
+.nhantin div svg{
+    margin-top: 5px;
+}
+.nhantin div {
+
+    display: flex;
+    justify-content: space-between;
+    background: #E5EBFC;
+    width: 375px;
+    height: 80px;
+}
+
+.nhantin input {
+    height: 30px;
+    border: 0px;
+    background-color: #E5EBFC;
+    padding: 10px;
+}
+
+.TextChat.hien {
+    display: block;
+}
+.buonghe{
+    display: none;
+}
+
+.kodoi{
+    padding:15px 20px;
+    margin-right:20px;
+    border-radius:10px;
+    background-color: #f5f5f6;
+}
+.doimau{
+    padding:15px 20px;
+    margin-right:20px;
+    border-radius:10px;
+    background-color: #1414f8;
+}
+.thongbao{
+    background-color: #0042E0;
+    color: white;
+    position: fixed;
+    bottom: 80px;
+    padding: 10px;
+    border-radius: 5px;
+    left:30%;
+}
+.coWish{
+    display: none;
+}
+.thanhtoan{
+    display: flex;
+    position: fixed;
+    bottom: 40px;
+    justify-content: space-between;
+    align-items: center;
+    width: 500px;
+    padding: 5px 0px;
+    background-color: #F9F9F9;
+}
+.Chat {
+    height: 40px;
+    border: 1px solid #004CFF;
+    margin-top: 5px;
+    display: block;
+    padding: 10px 5px;
+    border-radius: 10px;
+}
+
+.TextBot {
+    display: none;
+    margin-top: 10px;
+}
+
+.TextBot.hien {
+    display: flex;
+    justify-content: right;
+}
+
+.Chat.hien svg {
+    margin: 0px 10px;
+}
+
+.Chat.hien {
+
+    display: flex;
+    align-items: center;
+    background-color: #0042E0;
+    color: white;
+}
+
+.Review.chien {
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(0, 0, 0, 0.5);
+    width: 375px;
+    height: 100%;
+}
+
+.nhandc {
+    position: absolute;
+    bottom: 0;
+}
+
+.Review.hien {
+    display: block;
+    position: absolute;
+    bottom: -10px;
+    left: -5px;
+}
+
+.Recieve1 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    outline: 5px solid white;
+    width: 84px;
+    height: 84px;
+    box-shadow: 0px 5px 5px 5px rgba(0.10, 0.10, 0.10, 0.10);
+}
+
+.Recieve2 {
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    outline: 5px solid white;
+    width: 130px;
+    height: 130px;
+    box-shadow: 0px 5px 5px 5px rgba(0.10, 0.10, 0.10, 0.10);
+}
+
+.cart div img {
+    width: 121.18px;
+    height: 110.64px;
+    box-shadow: 0px 5px 5px 5px rgba(0.10, 0.10, 0.10, 0.10);
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.Avatar {
+    box-shadow: 0px 5px 5px 5px rgba(0.10, 0.10, 0.10, 0.10);
+    border-radius: 50px;
+    outline: 5px solid white;
+    width: 40px;
+    height: 40px;
+}
+
+.Nhapdiachi {
+    background: #F9F9F9;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.Nhapdiachi h3 {
+    margin: 10px;
+}
+
+.Nhapdiachi div {
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ItemWish {
+    margin-top: 10px;
+    display: flex;
+    position: relative;
+}
+.Add{
+    width: 100px;
+}
+.ItemWish div {
+    margin: 5px;
+}
+.ItemWish div:nth-child(2) svg{
+    margin-right: 10px;
+}
+.ItemWish .AnhSvg {
+    bottom: 5px;
+    position: absolute;
+}
+
+.chuyenDay {
+    display: block;
+}
+
+.chuyenDay div Svg {
+    display: none;
+}
+
+.chuyenDay .anhienSvg Svg {
+    display: block;
+}
+
+img {
+    border-radius: 5px;
+}
+
+.anhienSvg {
+    color: #004CFF;
+    border: #004CFF solid 1px;
+}
+
+.DateTime {
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0px 5px 5px 5px rgba(0.10, 0.10, 0.10, 0.10);
+    margin: 0px 10px;
+}
+
+.rdrDays {
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+
+.rdrDay {
+    margin-top: 5px;
+    background-color: #F9F9F9;
+    width: 43px;
+    height: 30px;
+    border: 0px;
+    border-radius: 10px;
+}
+
+.rdrMonths {
+    border-radius: 5px;
+}
+
+.rdrMonth {
+    border-radius: 5px;
+}
+
+.rdrMonth .rdrWeekDays {
+    display: none;
+}
+
+.rdrCalendarWrapper {
+    margin-left: 10px;
+}
+
+.rdrNextButton i {
+    color: #0042E0;
+}
+
+.rdrNextPrevButton {
+    border: 0px;
+}
+
+.Recieve img {
+    width: 39.17px;
+    height: 39.17px;
+}
+
+.rdrYearPicker {
+    display: none;
+}
+
+.Recieve3 img {
+    width: 80.17px;
+    height: 80.17px;
+}
+
+.Recieve1 img {
+    width: 39.17px;
+    height: 80.17px;
+}
+
+.rdrMonthAndYearPickers {
+    width: 146px;
+    height: 30px;
+    background: #E5EBFC;
+    border-radius: 10px;
+    background-position: 0;
+    flex: none;
+}
+
+.rdrDayNumber {
+    text-decoration: none;
+}
+
+.PlastSale {
+    background-color: #0042E0;
+    color: #F9F9F9;
+    padding: 7px 15px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    border: solid #004BFE 1px;
+}
+
+.TextAddDiaChi h3 {
+    margin-left: 20px;
+}
+
+.TextAddDiaChi {
+    width: 375px;
+    height: 80px;
+    border-radius: 9px 9px 0px 0px;
+    background-color: #F8FAFF;
+    line-height: 80px;
+}
+
+.AddDiaChi2 {
+    background-color: #F9F9F9;
+}
+
+.AddDiaChi2 h6 {
+    margin-left: 20px;
+}
+
+.AddDiaChi2 input {
+    margin-left: 20px;
+    width: 335px;
+    height: 37px;
+    top: 20px;
+    border: none;
+    background: #F1F4FE;
+    border-radius: 10px;
+}
+
+.AddCoutry {
+    position: relative;
+}
+
+.AddCoutry svg {
+    position: absolute;
+    right: 25px;
+    bottom: 2px;
+}
+
+.AddDiaChi2 button {
+    margin-left: 20px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+    width: 335px;
+    height: 40px;
+    top: 668px;
+    left: 20px;
+    background-color: #004CFF;
+}
+
+.PlastSale svg {
+    margin-left: 5px;
+}
+
+.Plast {
+    border: solid #004BFE 1px;
+    padding: 7px 15px;
+    color: #004BFE;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.rdrDay .rdrDayToday {
+    text-decoration: none;
+}
+
+.DateTime div svg {
+    position: absolute;
+    bottom: -22px;
+    left: 153px;
+}
+
+.DateTime svg {
+    position: absolute;
+    bottom: -3px;
+    left: 166px;
+}
+
+.DateTime {
+    display: none;
+    position: relative;
+}
+
+.DateTime.anday {
+    display: block;
+}
+
+.chuyenDay.chuyen {
+    display: none;
+}
+
+.TongTien {
+    position: fixed;
+    bottom: 45px;
+    height: 60px;
+    align-items: center;
+    background: #F5F5F5;
+    width: 100%;
+    max-width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.TongTien p {
+    width: 128px;
+    height: 40px;
+    background: #004CFF;
+    border-radius: 10px;
+    margin-right: 20px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.AddDiaChi {
+
+    position: absolute;
+    bottom: 0px;
+    display: none;
+}
+
+.AddDiaChi.diachi {
+    display: block;
+}
+.chuyenlist{
+    display: none;
+}
+.chuyenlist.hien{
+    display: block;
+}

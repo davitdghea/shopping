@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0;
+  }
+  h1{
+    color: white;
+}
+.Top{
+    background-color: red;
+    text-align: center;
+    padding: 40px 30px;
+
+}
+input{
+    padding: 5px;
+    width: 80%;
+}
+.Add{
+    padding: 5px;
+    width: 20%;
+}
+li{
+    padding: 7px 0px 7px 20px ;
+    list-style: none;
+}
+
+ul{
+    background-color: whitesmoke;
+    
+    list-style: none;
+}
+li:nth-child(even){
+    background-color: whitesmoke;
+}
+li:hover{
+    
+    background-color: gray;
+}
+.Close{
+    float: right;
+}
+.Checked:nth-child(even){
+    content: '';
+    background-color: gray;
+    color: white;
+    text-decoration: line-through;
+}
+.Checked{
+    content: '';
+    background-color: gray;
+    color: white;
+    text-decoration: line-through;
+}
